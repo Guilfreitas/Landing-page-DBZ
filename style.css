@@ -88,8 +88,8 @@
 
   .conteudo-btn {
       font-family: Arial, Helvetica, sans-serif;
-      color: #078fd8;
-      background-color: white;
+      color: white;
+      background-color: #DB0910;
       border-radius: 20px;
       padding: 10px 30px;
       place-self: start;
